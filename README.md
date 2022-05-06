@@ -24,7 +24,7 @@ Please carefully read the `main.py` and `configs.py`, then change the parameters
 
 | Dataset  | Baseline ACC | Baseline ASR | MCL ACC | MCL ASR |
 | -------- | ------------ | ------------ | ------- | ------- |
-| CIFAR-10 | 85.65        | 100.0        | 82.32   | 18.13 |
+| CIFAR-10 | 83.01        | 99.64        | 82.19   | 2.22    |
 
 ---
 

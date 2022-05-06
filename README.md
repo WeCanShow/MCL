@@ -17,7 +17,7 @@ $ python main.py
 ```
 where the default parameters are shown in `config.py`.
 
-The trained model will be saved at the path `weight/erasing_net/<s_name>.tar`
+The trained model will be saved at the path `weight/<name>.tar`
 
 Please carefully read the `main.py` and `configs.py`, then change the parameters for your experiment.
 

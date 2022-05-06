@@ -1,6 +1,6 @@
 # Model-Contrastive Learning
 
-This is an implementation demo of our 2021 paper Model-Contrastive Learning for Backdoor Defense in PyTorch.
+This is an implementation demo of our paper Model-Contrastive Learning for Backdoor Defense in PyTorch.
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-DodgerBlue.svg?style=plastic)
 ![Pytorch 1.9](https://img.shields.io/badge/pytorch-1.9-DodgerBlue.svg?style=plastic)
